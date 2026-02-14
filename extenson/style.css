@@ -1,0 +1,20 @@
+body {
+  width: 240px;
+  text-align: center;
+  font-family: Arial;
+}
+
+#meter {
+  width: 200px;
+  height: 20px;
+  background: #ddd;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#fill {
+  height: 100%;
+  width: 0%;
+  background: green;
+  border-radius: 10px;
+}
